@@ -66,8 +66,8 @@ const homelist = (req, res) => {
     method: "GET",
     json: {},
     qs: {
-      lng: -0.9690884,
-      lat: 51.455041,
+      lng: 30.295761,
+      lat: 9.4747979,
       maxDistance: 20,
     },
   };
@@ -141,7 +141,6 @@ const addReview = (req, res) => {
 };
 
 const doAddReview = (req, res) => {
-  console.log("ani hna");
   const locationid = req.params.locationid;
   const path = `/api/locations/${locationid}/reviews`;
   const postdata = {

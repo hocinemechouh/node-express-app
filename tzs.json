@@ -1,0 +1,16 @@
+{
+  "name": "Starcups",
+  "address": "125 High Street, Reading, RG6 1PS",
+  "rating": 3,
+  "facilities": ["Hot drinks", "Food", "Premium wifi"],
+  "lng": -0.9690884,
+  "lat": 51.455041,
+  "days1": "Monday - Friday",
+  "opening1": "7:00am",
+  "closing1": "7:00pm",
+  "closed1": false,
+  "days2": "Saturday",
+  "opening2": "8:00am",
+  "closing2": "5:00pm",
+  "closed2": false
+}
