@@ -5,6 +5,7 @@ const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const favicon = require("serve-favicon");
 
+console.log("hi");
 //Config app
 require("dotenv").config();
 
